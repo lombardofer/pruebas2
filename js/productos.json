@@ -1,0 +1,9 @@
+[
+      { 
+        "id": 1, 
+        "nombre": "Apple Macbook Air M2 480GB", 
+        "precio": 2000000, 
+        "imagen": "../img/producto1.png"
+      }
+]
+  
